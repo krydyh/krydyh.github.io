@@ -38,7 +38,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/yeonghu.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Through my graduation project, I opened my eyes to the field of autonomous driving, and after completing the Planning & Control Dev course, I am studying for employment in related fields. I have a dream of becoming a developer who contributes to the development of safe autonomous driving technology.
+  Through my graduation project, I opened my eyes to the field of autonomous driving. And after completing the Planning & Control Dev course, I am studying for employment in related fields. I have a dream of becoming a developer who contributes to the development of safe autonomous driving technology.
 
     - Autonomus Driving(Path Planning & Motion Control)
     - Robotics Engineering
