@@ -33,15 +33,6 @@ additional_links:
 - title: velog
   icon: fas fa-blog
   url: https://velog.io/@krydyh
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
@@ -58,8 +49,8 @@ content:
     content:
       - layout: left
         title: Sangmyung University
+        sub_title: Convergence Electronic Engineering(BA)
         caption: 2021.02 - 2023.08
-        sub_title: **BA** Convergence Electronic Engineering
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         # description: | # this will include new lines to allow paragraphs
