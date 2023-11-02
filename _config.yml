@@ -33,6 +33,9 @@ additional_links:
 - title: Velog
   icon: fas fa-blog
   url: https://velog.io/@krydyh
+- title: Resume
+  icon: fas fa-user
+  url: https://bottlenose-hide-aba.notion.site/656503936e2643f58b9ff9f9d66ba38a
 
 # About Section
 # about_title: About Me
